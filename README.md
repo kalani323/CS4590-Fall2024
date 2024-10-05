@@ -6,3 +6,8 @@
 - HOMEWORK 1: Introduction to Audio Programming in Processing
 - HOMEWORK 2: Working with Raw Samples
 - HOMEWORK 3: Audio Manipulation in Processing
+- HOMEWORK 4: Interface Sound Design
+- HOMEWORK 5: Sound Synthesis
+- HOMEWORK 6: Virtual Theremin
+- HOMEWORK 7: Frequency Analysis in Processing
+- HOMEWORK 8: Building a Vocoder
